@@ -2,7 +2,7 @@
   "name": "Discord Rich Presence",
   "dll_name": "Ty1 Rich Presence",
   "description": "Discord rich presence displaying level name, level image, and thunder egg count.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": [
     {
       "dep_name": "TygerMemory",
